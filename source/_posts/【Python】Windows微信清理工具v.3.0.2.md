@@ -3,10 +3,10 @@
 #### 1、清理完成时可显示删除了哪些文件。
 
 **软件截图：**
-![](./img/d48e328a72117d0d.png)
-![](./img/28b4f6d197f88f98.png)
-![](./img/b361d343d13c3c0a.png)
-![](./img/292ec74e519a9aeb.png)
+![](hexo/img/d48e328a72117d0d.png)
+![](hexo/img/28b4f6d197f88f98.png)
+![](hexo/img/b361d343d13c3c0a.png)
+![](hexo/img/292ec74e519a9aeb.png)
 
 ### 所有版本及源码下载链接：
 ### 百度网盘：https://pan.baidu.com/s/1OSIpvZEOvd-lVZb_82BnKg
